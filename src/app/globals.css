@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-purple-deep: #667eea;
+  --color-purple-dark: #764ba2;
+}
+
+body {
+  margin: 0;
+}
